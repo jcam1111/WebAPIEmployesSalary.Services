@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\WebAPIEmployesSalary.Services\bin\Debug\net8.0\WebAPIEmployesSalary.Services.deps.json
+C:\Users\user\source\repos\WebAPIEmployesSalary.Services\bin\Debug\net8.0\WebAPIEmployesSalary.Services.dll
+C:\Users\user\source\repos\WebAPIEmployesSalary.Services\bin\Debug\net8.0\WebAPIEmployesSalary.Services.pdb
+C:\Users\user\source\repos\WebAPIEmployesSalary.Services\bin\Debug\net8.0\WebAPIEmployesSalary.Model.dll
+C:\Users\user\source\repos\WebAPIEmployesSalary.Services\bin\Debug\net8.0\WebAPIEmployesSalary.Model.pdb
+C:\Users\user\source\repos\WebAPIEmployesSalary.Services\obj\Debug\net8.0\WebAPIEmployesSalary.Services.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WebAPIEmployesSalary.Services\obj\Debug\net8.0\WebAPIEmployesSalary.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\WebAPIEmployesSalary.Services\obj\Debug\net8.0\WebAPIEmployesSalary.Services.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WebAPIEmployesSalary.Services\obj\Debug\net8.0\WebAPIEmployesSalary.Services.AssemblyInfo.cs
+C:\Users\user\source\repos\WebAPIEmployesSalary.Services\obj\Debug\net8.0\WebAPIEmployesSalary.Services.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WebAPIEmployesSalary.Services\obj\Debug\net8.0\WebAPIEm.D4656C19.Up2Date
+C:\Users\user\source\repos\WebAPIEmployesSalary.Services\obj\Debug\net8.0\WebAPIEmployesSalary.Services.dll
+C:\Users\user\source\repos\WebAPIEmployesSalary.Services\obj\Debug\net8.0\refint\WebAPIEmployesSalary.Services.dll
+C:\Users\user\source\repos\WebAPIEmployesSalary.Services\obj\Debug\net8.0\WebAPIEmployesSalary.Services.pdb
+C:\Users\user\source\repos\WebAPIEmployesSalary.Services\obj\Debug\net8.0\ref\WebAPIEmployesSalary.Services.dll
